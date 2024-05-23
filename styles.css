@@ -24,3 +24,14 @@ header {
     border-color: red;
     border-width: 19px;
 }
+
+.btn1 {
+    font-size: 65px;
+    width: 500px;
+    height: 383px;
+    margin-left: 36.5vw;
+    margin-top: 10vw;
+    border-radius: 76px;
+    border-color: red;
+    border-width: 19px;
+}
