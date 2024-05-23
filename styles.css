@@ -13,6 +13,9 @@ header {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+}
 
 .btn {
     font-size: 65px;
