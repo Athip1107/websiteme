@@ -18,7 +18,7 @@ header {
     font-size: 65px;
     width: 500px;
     height: 383px;
-    margin-left: 36.5vw;
+    margin-left: 22.5vw;
     margin-top: 10vw;
     border-radius: 76px;
     border-color: red;
@@ -26,12 +26,12 @@ header {
 }
 
 .btn1 {
-    font-size: 65px;
-    width: 500px;
-    height: 383px;
-    margin-left: 36.5vw;
-    margin-top: 10vw;
+    font-size: 21px;
+    width: 347px;
+    height: 65px;
+    margin-left: 66.5vw;
+    margin-top: -12vw;
     border-radius: 76px;
     border-color: red;
-    border-width: 19px;
+    border-width: 8px;
 }
