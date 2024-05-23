@@ -13,46 +13,14 @@ header {
     text-align: center;
 }
 
-.intro {
-    text-align: center;
-    padding: 2rem 0;
-}
 
-.profile-pic {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-}
-
-section {
-    padding: 2rem;
-    margin: 1rem 2rem;
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.projects ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.projects li {
-    margin: 0.5rem 0;
-}
-
-.projects a {
-    color: #333;
-    text-decoration: none;
-}
-
-.projects a:hover {
-    text-decoration: underline;
-}
-
-footer {
-    text-align: center;
-    padding: 1rem 0;
-    background: #333;
-    color: #fff;
+.btn {
+    font-size: 65px;
+    width: 500px;
+    height: 383px;
+    margin-left: 36.5vw;
+    margin-top: 10vw;
+    border-radius: 76px;
+    border-color: red;
+    border-width: 19px;
 }
